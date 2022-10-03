@@ -8,6 +8,4 @@ The "tech specs" page is where I spend most of my time on this challenge. This p
 
 
 ## See what we accomplished
- If you would like to check out our teams website please click the link or go to https://hpnbbattery.co/demo.html
-
-
+ If you would like to check out our teams website please click the link or go to https://hpnbbattery.co
